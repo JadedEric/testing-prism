@@ -11,9 +11,7 @@ namespace testing_prism
     {
         public App()
         {
-            InitializeComponent();
-
-            MainPage = new testing_prism.MainPage();
+            
         }
 
         protected override void OnStart()

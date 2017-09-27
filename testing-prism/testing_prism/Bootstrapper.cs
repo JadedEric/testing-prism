@@ -3,15 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Xamarin.Forms;
 
 namespace testing_prism
 {
-    public partial class MainPage : ContentPage
+    public class Bootstrapper
     {
-        public MainPage()
-        {
-            InitializeComponent();
-        }
     }
 }
